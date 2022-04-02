@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "scart_switch-rescue")(type "Legacy")(uri "${KIPRJMOD}/scart_switch-rescue.lib")(options "")(descr ""))
+)
